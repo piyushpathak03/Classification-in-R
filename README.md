@@ -29,4 +29,20 @@ In this series of articles on **Machine Learning in R** we delve into fundamenta
 An overview of the R visualisation capabilities.
 ![](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data-Visualisation-with-R/Multiple%20charts/multiple%20charts.png)
 
-    
+    ## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
